@@ -31,4 +31,4 @@ Bản 2.2:
 - Boot animation
 - Font
 - Thanh thông báo...
-Cảm ơn bạn đã đồng hành cùng TeamRedesign
+###  Cảm ơn bạn đã đồng hành cùng TeamRedesign
