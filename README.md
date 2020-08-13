@@ -1,1 +1,1 @@
-###  Cảm ơn bạn đã đồng hành cùng TeamRedesign
+(  Cảm ơn bạn đã đồng hành cùng TeamRedesign
